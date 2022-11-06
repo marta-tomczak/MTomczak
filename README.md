@@ -18,4 +18,4 @@ I also ancourage you to check my homepage, where you can find more informations 
 [![Redux](./images/redux.png)](#)&nbsp;&nbsp;
 
 # Reach me at:
-## Email: marta.beata.tomczak@gmail.com
+### Email: marta.beata.tomczak@gmail.com
