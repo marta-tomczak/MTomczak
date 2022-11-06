@@ -10,12 +10,12 @@ I also ancourage you to check my homepage, when you can find more informations a
 
 # Technologies used in my projects:
 
-[![](./img/html.png)](#)&nbsp;&nbsp;
-[![](./img/css.png)](#)&nbsp;&nbsp;
-[![git](./img/git.png)](#)&nbsp;&nbsp;
-[![JavaScript](./img/javascript.png)](#)&nbsp;&nbsp;
-[![React](./img/react.png)](#)&nbsp;&nbsp;
-[![Redux](./img/redux.png)](#)&nbsp;&nbsp;
+[![](./images/html.png)](#)&nbsp;&nbsp;
+[![](./images/css.png)](#)&nbsp;&nbsp;
+[![git](./images/git.png)](#)&nbsp;&nbsp;
+[![JavaScript](./images/javimagesascript.png)](#)&nbsp;&nbsp;
+[![React](./images/react.png)](#)&nbsp;&nbsp;
+[![Redux](./images/redux.png)](#)&nbsp;&nbsp;
 
 # Reach me at:
 ## Email: marta.beata.tomczak@gmail.com
