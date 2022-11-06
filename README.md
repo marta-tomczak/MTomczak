@@ -1,9 +1,9 @@
 # Welcome to my homepage! 👋
 
 My name is Marta and I'm Frontend Developer.
-I'm learning technologies associated with React. Have a look at what I do ;)
+I'm learning technologies associated with React. Have a look at what I do. ;)
 
-If you want to check results of my work, feel free to check my public repositories 🔎
+If you want to check results of my work, feel free to check my public repositories. 🔎
 
 I also ancourage you to check my homepage, where you can find more informations about my work. 🖥️
 
