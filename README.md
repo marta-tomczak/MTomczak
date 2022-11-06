@@ -1,4 +1,4 @@
-## Welcome to my homepage! 👋
+# Welcome to my homepage! 👋
 
 My name is Marta and I'm Frontend Developer.
 I'm learning technologies associated with React. Have a look at what I do ;)
