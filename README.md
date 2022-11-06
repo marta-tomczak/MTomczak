@@ -13,7 +13,7 @@ I also ancourage you to check my homepage, when you can find more informations a
 [![](./images/html.png)](#)&nbsp;&nbsp;
 [![](./images/css.png)](#)&nbsp;&nbsp;
 [![git](./images/git.png)](#)&nbsp;&nbsp;
-[![JavaScript](./images/javimagesascript.png)](#)&nbsp;&nbsp;
+[![JavaScript](./images/javascript.png)](#)&nbsp;&nbsp;
 [![React](./images/react.png)](#)&nbsp;&nbsp;
 [![Redux](./images/redux.png)](#)&nbsp;&nbsp;
 
